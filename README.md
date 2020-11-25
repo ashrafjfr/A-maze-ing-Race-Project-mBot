@@ -1,4 +1,4 @@
-# mBot-Maze-Solver
+# mBot A-maze-ing Race Project
 
 This repo consists of the report and code to my team's mBot A-maze-ing Race project for the CG1111 module.
 
