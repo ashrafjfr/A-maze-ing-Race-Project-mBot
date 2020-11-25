@@ -1,5 +1,5 @@
 /**
- * @file    mBot_Amazeing_Race_Codes_Group_3A4.ino
+ * @file    mBot_Amazeing_Race_Code.ino
  * @author  Group 3A-4 Ng Andre, Mun Le Zong, Ngo Phuc Cuong, Muhammad Ashraf Bin Mohamad Jaffar
  * @date    13/11/2020
  * @brief   Description: This file contains the codes for our mBot to run through a maze
